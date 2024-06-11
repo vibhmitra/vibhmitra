@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhtMnAxbWc4cmtya3Vuang0NjlmdjV1a2tvMXBqNDM1b2VlYTVkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3nWlmgyqCeU8/giphy.webp" width=40px/>
 <!--
 **vibhmitra/vibhmitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
