@@ -18,6 +18,7 @@ Here are some ideas to get myself started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- The V STL -->
 ```stl
 solid Mesh
   facet normal -0.935499 -0.353328 -0.000000
