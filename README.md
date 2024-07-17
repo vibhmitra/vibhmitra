@@ -1,4 +1,5 @@
-## Hi there 👋 
+## Hi there 👋
+<p align="center"><img src="https://" /></p>
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <!--  <p align="center"><img src="https://i.giphy.com/86QMJk7uioeOxxTsXN.webp" /></p> -->
 <!-- <p align="center"><img src="https://i.giphy.com/4fRToX3peyWli.webp" /></p> -->
@@ -19,6 +20,7 @@ Here are some ideas to get myself started:
 -->
 
 <!-- The V STL -->
+<!-- 
 ```stl
 solid Mesh
   facet normal -0.935499 -0.353328 -0.000000
@@ -191,3 +193,4 @@ solid Mesh
   endfacet
 endsolid Mesh
 ```
+-->
