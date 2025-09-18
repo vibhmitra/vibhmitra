@@ -1,5 +1,7 @@
 ## ✨ Ello! ✨
-<p align="center"><img src="https://github.com/vibhmitra/vibhmitra/blob/main/output.gif?raw=true" /></p>
+<!-- <p align="center"><img src="https://github.com/vibhmitra/vibhmitra/blob/main/output.gif?raw=true" /></p> -->
+<p align="center"><img src="https://i.giphy.com/vrcoalzSZ7ivu.webp" /></p>
+
 <!-- <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p> -->
 <!--  <p align="center"><img src="https://i.giphy.com/86QMJk7uioeOxxTsXN.webp" /></p> -->
 <!-- <p align="center"><img src="https://i.giphy.com/4fRToX3peyWli.webp" /></p> -->
@@ -194,3 +196,4 @@ solid Mesh
 endsolid Mesh
 ```
 -->
+
